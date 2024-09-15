@@ -2,7 +2,7 @@
 
 RESEARCH PAPER SUMMARY
 
-\*\* Authors: Shola Paul Emiade (@Shawlyem), Abilashni Arthiswaran (@Abilashni83) and Gobikrishnan Subramaniam (@gobi3141)\*\*
+Authors: Shola Paul Emiade (@Shawlyem), Abilashni Arthiswaran (@Abilashni83) and Gobikrishnan Subramaniam (@gobi3141)
 
 Comprehensive molecular profiling of lung adenocarcinoma[ https://www.nature.com/articles/nature13385](https://www.nature.com/articles/nature13385)
 
