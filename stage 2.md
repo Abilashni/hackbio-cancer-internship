@@ -6,15 +6,15 @@ Authors: Shola Paul Emiade (@Shawlyem), Abilashni Arthiswaran (@Abilashni83) and
 
 Comprehensive molecular profiling of lung adenocarcinoma[ https://www.nature.com/articles/nature13385](https://www.nature.com/articles/nature13385)
 
-**Introduction**
+## Introduction
 
 According to GLOBOCAN 2022 estimates from the Global Cancer Observatory,  lung adenocarcinoma was found to be the leading cause of cancer mortality worldwide with over 1.8 million deaths. Recent advancements in next-generation sequencing (NGS) have significantly transformed the landscape of tumour diagnosis and treatment by enabling the utilisation of molecular profiling to improve diagnosis and optimise treatment plans. This study focuses on identifying mutations that can be utilised for targeted therapies involving clinically actionable genes, and understanding the role of key factors driving lung adenocarcinoma progression and provides new paradigms for developing new targeted therapies and personalised treatments (Collisson et al., 2014, Ding et al., 2008; Imielinski et al., 2012). 
 
-**Study Design and Methodology**
+## Study Design and Methodology
 
 230 samples, were collected from adenocarcinoma patients with all major histologic forms of the cancer represented. DNA and RNA were extracted using the Allprep kit and whole-exome sequencing (WES) was performed on tumour and germline DNA. Consensus clustering approaches were used to analyse mRNA, miRNA and methylation subtypes (Collisson et al., 2014).
 
-**Key findings**
+## Key findings
 
 - Higher frequency of somatic mutations was observed, with a mean of 8.9 mutations per megabase and among them 18 genes were statistically significant (RIT1 activating mutations and MGA loss-of-function mutations).
 - Mutations in EGFR were more frequent in female patients, while RBM10 mutations were more common in males. 
@@ -25,11 +25,11 @@ According to GLOBOCAN 2022 estimates from the Global Cancer Observatory,  lung 
 - Key driver mutations were identified in the RTK/RAS/RAF pathway, including KRAS, EGFR, and BRAF, increasing the detection of pathway activation from 62% to 76% and expanding the range of targetable mutations for treatment.
 - Integrative analysis identified 6 distinct molecular subtypes of lung adenocarcinoma associated with distinct genomic alterations.
 
-**Conclusion**
+## Conclusion
 
 The molecular diversity in lung adenocarcinoma emphasises the need for more refined classifications to advance precision medicine. Further investigation should focus on molecular sub-classifications for precision medicine, with particular attention to epigenetic regulators,  mechanisms of pathway activation at the protein level and RNA splicing are crucial for improving treatment effectiveness. This research reinforces the importance of exploring the molecular diversity of lung adenocarcinoma to identify novel biomarkers for early detection and better prognosis as well as aid in the development of personalised cancer therapeutics.
 
-**References**
+## References
 
 Bergethon, K. et al. (2012) ‘ros1 rearrangements define a unique molecular class of lung cancers’, Journal of Clinical Oncology, 30(8), pp. 863–870. Available at: <https://doi.org/10.1200/JCO.2011.35.6345>.
 
