@@ -1,6 +1,6 @@
 <!--StartFragment-->
 
-**RESEARCH PAPER SUMMARY**
+# RESEARCH PAPER SUMMARY
 
 Authors: Shola Paul Emiade (@Shawlyem), Abilashni Arthiswaran (@Abilashni83) and Gobikrishnan Subramaniam (@gobi3141)
 
