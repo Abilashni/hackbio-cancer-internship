@@ -4,7 +4,8 @@
 
 Authors: Shola Paul Emiade (@Shawlyem), Abilashni Arthiswaran (@Abilashni83) and Gobikrishnan Subramaniam (@gobi3141)
 
-Comprehensive molecular profiling of lung adenocarcinoma[ https://www.nature.com/articles/nature13385](https://www.nature.com/articles/nature13385)
+## Video presentation
+https://www.linkedin.com/posts/shola-emiade-53365b9b_hackbio-cancer-bioinformatics-activity-7240972936726118401-bObG?utm_source=share&utm_medium=member_android
 
 ## Introduction
 
