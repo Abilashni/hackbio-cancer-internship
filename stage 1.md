@@ -26,6 +26,10 @@ According to GLOBOCAN 2022 estimates from the Global Cancer Observatory,  lung 
 - Key driver mutations were identified in the RTK/RAS/RAF pathway, including KRAS, EGFR, and BRAF, increasing the detection of pathway activation from 62% to 76% and expanding the range of targetable mutations for treatment.
 - Integrative analysis identified 6 distinct molecular subtypes of lung adenocarcinoma associated with distinct genomic alterations.
 
+![image](https://github.com/user-attachments/assets/30406995-9217-454a-a0c1-99174bf242ab)
+
+*Fig.1: Integrative analysis of 230 lung adenocarcinoma samples*
+
 ## Conclusion
 
 The molecular diversity in lung adenocarcinoma emphasises the need for more refined classifications to advance precision medicine. Further investigation should focus on molecular sub-classifications for precision medicine, with particular attention to epigenetic regulators,  mechanisms of pathway activation at the protein level and RNA splicing are crucial for improving treatment effectiveness. This research reinforces the importance of exploring the molecular diversity of lung adenocarcinoma to identify novel biomarkers for early detection and better prognosis as well as aid in the development of personalised cancer therapeutics.
