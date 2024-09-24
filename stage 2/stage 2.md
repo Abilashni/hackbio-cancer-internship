@@ -104,9 +104,8 @@ The genes ID were submitted in ShinyGO (<http://bioinformatics.sdstate.edu/go/>)
 
 **Lymphocyte chemotaxis:** Cellular interactions are facilitated by proteins called cytokines, with a large group known as chemokines responsible for mediating chemoattraction between cells (Novak et al., 2020). Lymphocyte chemotaxis refers to the movement of lymphocytes, a type of white blood cell, toward specific areas of the body in response to chemokine signals. This process is critical for immune function, allowing lymphocytes to travel to sites of infection, inflammation, or injury to trigger an immune response. Chemokine receptors on the outer cell membrane, which are part of the G-protein coupled receptor (GPCR) family, typically bind to chemokines that play a key role in cancer progression (Novak et al., 2020).
 
-\
-\
-\
+
+
 ## References
 
 Davis, M. (2016). Glioblastoma: Overview of Disease and Treatment. _Clinical Journal of Oncology Nursing_, _20_(5), S2–S8. <https://doi.org/10.1188/16.CJON.S1.2-8>.
@@ -129,7 +128,6 @@ Capdevila, J., & Belmonte, J. C. I. (2001). Patterning Mechanisms Controlling Ve
 
 Novak, M., Koprivnikar Krajnc, M., Hrastar, B., Breznik, B., Majc, B., Mlinar, M., Rotter, A., Porčnik, A., Mlakar, J., Stare, K., Pestell, R. G., & Lah Turnšek, T. (2020). CCR5-Mediated Signaling is Involved in Invasion of Glioblastoma Cells in Its Microenvironment. _International Journal of Molecular Sciences_, _21_(12), 4199. <https://doi.org/10.3390/ijms21124199>
 
-\
 
 
 <!--EndFragment-->
