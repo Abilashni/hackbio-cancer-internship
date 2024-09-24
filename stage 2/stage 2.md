@@ -1,14 +1,14 @@
 <!--StartFragment-->
 
-**#Visualization and Interpretation of Glioblastoma Gene Expression Dataset** 
+#Visualization and Interpretation of Glioblastoma Gene Expression Dataset
 
-\*\* Authors: Shola Paul Emiade (@Shawlyem), Abilashni Arthiswaran (@Abilashni83) and Gobikrishnan Subramaniam (@gobi3141)\*\*
+**Authors: Shola Paul Emiade (@Shawlyem), Abilashni Arthiswaran (@Abilashni83) and Gobikrishnan Subramaniam (@gobi3141)**
 
-**\*\* Link to the data set:\*\*** <https://raw.githubusercontent.com/HackBio-Internship/public_datasets/main/Cancer2024/glioblastoma.csv>
+**Link to the data set:** <https://raw.githubusercontent.com/HackBio-Internship/public_datasets/main/Cancer2024/glioblastoma.csv>
 
-\*\* **Link to the R code:**\*\* [hackbio-cancer-internship/stage 2/code.R at main · Abilashni/hackbio-cancer-internship (github.com)](https://github.com/Abilashni/hackbio-cancer-internship/blob/main/stage%202/code.R)
+**Link to the R code:** [hackbio-cancer-internship/stage 2/code.R at main · Abilashni/hackbio-cancer-internship (github.com)](https://github.com/Abilashni/hackbio-cancer-internship/blob/main/stage%202/code.R)
 
-**##Introduction**
+##Introduction
 
 Glioblastoma multiforme (GBM) is the most prevalent and aggressive form of primary malignant brain tumor, particularly affecting older adults. It occurs more frequently in men than in women and is more common among Caucasians (Wu et al., 2021). GBM tumors may arise from different cell types, such as neural stem cells, astrocytes, and oligodendrocyte precursor cells, with each origin influencing the tumor’s behavior. Genetic studies have revealed several molecular subtypes of GBM, including classical, proneural, neural, and mesenchymal, which are linked to varying clinical outcomes. Furthermore, the Cancer Genome Atlas has shown that GBM tumors often harbor mutations in key pathways like p53, receptor tyrosine kinase, and the retinoblastoma pathway. While primary GBMs are often associated with mutations such as EGFR overexpression, secondary GBMs are more likely to have IDH1 and p53 mutations (Davis, 2016).
 
