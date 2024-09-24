@@ -1,6 +1,6 @@
 <!--StartFragment-->
 
-#Visualization and Interpretation of Glioblastoma Gene Expression Dataset
+# Visualization and Interpretation of Glioblastoma Gene Expression Dataset
 
 **Authors: Shola Paul Emiade (@Shawlyem), Abilashni Arthiswaran (@Abilashni83) and Gobikrishnan Subramaniam (@gobi3141)**
 
@@ -8,7 +8,7 @@
 
 **Link to the R code:** [hackbio-cancer-internship/stage 2/code.R at main · Abilashni/hackbio-cancer-internship (github.com)](https://github.com/Abilashni/hackbio-cancer-internship/blob/main/stage%202/code.R)
 
-##Introduction
+## Introduction
 
 Glioblastoma multiforme (GBM) is the most prevalent and aggressive form of primary malignant brain tumor, particularly affecting older adults. It occurs more frequently in men than in women and is more common among Caucasians (Wu et al., 2021). GBM tumors may arise from different cell types, such as neural stem cells, astrocytes, and oligodendrocyte precursor cells, with each origin influencing the tumor’s behavior. Genetic studies have revealed several molecular subtypes of GBM, including classical, proneural, neural, and mesenchymal, which are linked to varying clinical outcomes. Furthermore, the Cancer Genome Atlas has shown that GBM tumors often harbor mutations in key pathways like p53, receptor tyrosine kinase, and the retinoblastoma pathway. While primary GBMs are often associated with mutations such as EGFR overexpression, secondary GBMs are more likely to have IDH1 and p53 mutations (Davis, 2016).
 
@@ -18,14 +18,14 @@ Glioblastoma multiforme (GBM) is the most prevalent and aggressive form of prima
 
 ****![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfhffZdg02L_upZMQuLkpC-DqdHZKwWa09ntf56ak2lwo92Fshai5Z-2sL_0dYeO7pNd9pjIV3Z4Zua6WqQ3Dg3dyt2qsOvSBxiW3OFkvNgc96q_z9H6nSOfx43_M3KfVby71P-caklh9YXcS6dmD_TfFDa?key=GW7GZ2zHVjSMNHeoiyuENQ)****
 
-**\*\*Figure 1: Image retrieved from Hotspot Mutations in _H3F3A_ and _IDH1_ Define Distinct Epigenetic and Biological Subgroups of Glioblastoma (**[**https://pubmed.ncbi.nlm.nih.gov/23079654/**](https://pubmed.ncbi.nlm.nih.gov/23079654/)**)\*\***
+**Figure 1: Image retrieved from Hotspot Mutations in _H3F3A_ and _IDH1_ Define Distinct Epigenetic and Biological Subgroups of Glioblastoma (**[**https://pubmed.ncbi.nlm.nih.gov/23079654/**](https://pubmed.ncbi.nlm.nih.gov/23079654/)**)**
 
 \
 
 
-**##Results and Discussion of Heatmaps and Functional Enrichment Analysis**
+## Results and Discussion of Heatmaps and Functional Enrichment Analysis
 
-**\*\*Task 1:\*\*** diverging and sequential color palette for the entire dataset.
+**Task 1:** diverging and sequential color palette for the entire dataset.
 
 ****![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXe5PmRxhJW8uMxjLdYUif-QrV35BksbLROTkGymWjD4_oM3JokIDpgz8yFwCQfH0C_WTFnu0xgYuV20VIGmOOEYVHJwt15ooiSRNFPwBKDjRaDwVc-pRA0r5O1ka8WrMx3UBt-P0vb4I12Qa9Uqj1pnycw?key=GW7GZ2zHVjSMNHeoiyuENQ)****
 
