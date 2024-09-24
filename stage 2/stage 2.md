@@ -107,7 +107,7 @@ The genes ID were submitted in ShinyGO (<http://bioinformatics.sdstate.edu/go/>)
 \
 \
 \
-**##References**
+##References
 
 Davis, M. (2016). Glioblastoma: Overview of Disease and Treatment. _Clinical Journal of Oncology Nursing_, _20_(5), S2–S8. <https://doi.org/10.1188/16.CJON.S1.2-8>.
 
