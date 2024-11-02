@@ -38,7 +38,8 @@ This step associates Ensembl gene IDs with their corresponding HGNC symbols, fac
 
 *Figure 1: The volcano plot illustrates the relationship between fold change and false discovery rate (FDR) for the identified DEGs.*
 
-![Heatmap]((https://github.com/Abilashni/hackbio-cancer-internship/blob/main/stage%204/images/Heat_Map.png))
+![Heatmap]
+(https://github.com/Abilashni/hackbio-cancer-internship/blob/main/stage%204/images/Heat_Map.png)
 
 *Figure 2: The heatmap visualizes expression patterns of DEGs, employing color coding to differentiate between WT and mutant samples.*
 
