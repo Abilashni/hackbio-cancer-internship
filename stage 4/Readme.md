@@ -50,7 +50,7 @@ K-Means clustering is performed to identify potential subgroups within the gliom
 This clustering analysis helps uncover underlying patterns in gene expression and assess the impact of IDH status on gene expression profiles.
 
 
-![K-means Clustering](https://github.com/nigusekelile/HackBio_Internship/blob/main/Stage_4_Pipeline_Implementation_ll/images/K-means%20clustering.png)
+![K-means Clustering](https://github.com/Abilashni/hackbio-cancer-internship/blob/48b54ae1b017a5f7c276b3e041a0ea29adb3dfe9/stage%204/images/K-means%20clustering.png)
 *Figure 3: K-meansd clustering*
 
 ## Conclusion
