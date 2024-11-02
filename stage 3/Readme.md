@@ -39,7 +39,7 @@ To gain insights into the biological processes associated with these DEGs, we pe
 The results of this analysis were visualized in a bar plot. From the output of the KNN classification, it can be concluded that the model was able to predict the validation set with an accuracy of 92%.
 
 This study successfully integrated machine learning and differential expression analysis to explore potential biomarkers in stomach adenocarcinoma. While differential expression analysis identified key upregulated and downregulated genes, the K-Nearest Neighbor model's suboptimal performance on the test dataset suggests that larger datasets and model refinement are needed to enhance predictive accuracy. It is recommended that further research should focus on expanding the dataset and exploring more sophisticated machine-learning algorithms to improve biomarker identification and ultimately aid in the early detection and treatment of stomach adenocarcinoma.
-<img width="499" alt="HEATMAP F VS M WITH DENDOGRAM AND LEGEND" src="https://github.com/user-attachments/assets/5ab686f1-c90d-4959-83c5-df453e9bad58">
+<img width="499" alt="HEATMAP F VS M WITH DENDOGRAM AND LEGEND" src="stage 3/visualization/HEATMAP F VS M WITH DENDOGRAM AND LEGEND.png">
 <img width="499" alt="HEATMAP F VS M WITHOUT DENDOGRAMS" src="https://github.com/user-attachments/assets/44f9da4d-4fee-4db0-a947-357196644a9c">
 ![dnreg genes](https://github.com/user-attachments/assets/72722373-a225-4dfc-9c51-84587f494e45)
 ![upreg genes](https://github.com/user-attachments/assets/50905db9-af82-43a3-ae52-1f8a3c0210c6)
