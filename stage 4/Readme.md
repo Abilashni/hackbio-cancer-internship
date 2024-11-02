@@ -57,7 +57,8 @@ This clustering analysis helps uncover underlying patterns in gene expression an
 ## Conclusion
 The K-means clustering analysis identified four distinct clusters. However, when compared to the IDH status, both Mutant and Wild Type samples were present in all four clusters. This suggests that the model did not clearly differentiate the samples into distinct Wild Type and Mutant groups. Moreover, two of the clusters showed overlap, indicating that the boundaries between them were not sharply defined. As a result, the clustering did not achieve the expected separation between Mutant and Wild Type samples. 
 
-### Rscript: https://github.com/nigusekelile/HackBio_Internship/blob/main/Stage_4_Pipeline_Implementation_ll/code/Task%205%20(Stage%204)_Pipeline_Implementation_ll.R
+### Rscript: 
+**https://github.com/Abilashni/hackbio-cancer-internship/blob/b95607eb0cfce7272c452e1c47e572a53aded002/stage%204/code.R**
 ### Report: https://github.com/nigusekelile/HackBio_Internship/blob/main/Stage_4_Pipeline_Implementation_ll/report/Stage_4_report.md
 
 ## References
