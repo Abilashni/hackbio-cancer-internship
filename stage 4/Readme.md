@@ -34,7 +34,7 @@ The results of the DEA are summarized in a table, providing insights into which 
 To enhance the interpretability of the results, the project annotates the differentially expressed genes (DEGs) using the biomaRt package. 
 This step associates Ensembl gene IDs with their corresponding HGNC symbols, facilitating biological interpretation.
 
-![Volcanoplot](https://github.com/nigusekelile/HackBio_Internship/blob/main/Stage_4_Pipeline_Implementation_ll/images/Volcano_Plot.png)
+![Volcanoplot](https://github.com/Abilashni/hackbio-cancer-internship/blob/14ad12b9e0c8e94cb62669865ca381e127db49c3/stage%204/images/Volcano_Plot.png)
 
 *Figure 1: The volcano plot illustrates the relationship between fold change and false discovery rate (FDR) for the identified DEGs.*
 
@@ -57,7 +57,7 @@ This clustering analysis helps uncover underlying patterns in gene expression an
 The K-means clustering analysis identified four distinct clusters. However, when compared to the IDH status, both Mutant and Wild Type samples were present in all four clusters. This suggests that the model did not clearly differentiate the samples into distinct Wild Type and Mutant groups. Moreover, two of the clusters showed overlap, indicating that the boundaries between them were not sharply defined. As a result, the clustering did not achieve the expected separation between Mutant and Wild Type samples. 
 
 ### Rscript: 
-https://github.com/Abilashni/hackbio-cancer-internship/blob/b95607eb0cfce7272c452e1c47e572a53aded002/stage%204/code.R
+### https://github.com/Abilashni/hackbio-cancer-internship/blob/b95607eb0cfce7272c452e1c47e572a53aded002/stage%204/code.R
 
 
 ## References
