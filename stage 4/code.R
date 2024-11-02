@@ -5,7 +5,7 @@
 
 # setting working directory
 getwd()
-setwd("C:/Users/nigus/HackBio/Raw_Data")
+setwd("D:/hackbio/stage 4")
 getwd()
 
 # enable libraries
