@@ -1,4 +1,4 @@
-**Transcriptomics in Cancer Biomarker Discovery**
+# Transcriptomics in Cancer Biomarker Discovery
 
 Biomarker discovery involves identifying and validating biological indicators, or biomarkers, essential for detecting, diagnosing, monitoring, or predicting the course of diseases and how patients respond to treatments. These biomarkers are measurable attributes within the body, such as proteins, genes, metabolites, or other molecular signatures, offering valuable insights into normal physiological processes, pathological states, and responses to therapeutic interventions (Goossens et al., 2015).
 
@@ -14,7 +14,7 @@ In conclusion, transcriptomics is an essential tool for cancer biomarker discove
 
  
 
-References
+## References
 
 <!--[if !supportLists]-->1.     <!--[endif]-->Van Rensburg, I.C. and Loxton, A.G., 2015. Transcriptomics: the key to biomarker discovery during tuberculosis?. _Biomarkers in medicine_, _9_(5), pp.483-495.
 
